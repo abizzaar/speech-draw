@@ -40,3 +40,12 @@ const artyom = new Artyom();
     //Updated to artyom v 0.6
     artyom.addCommands(artyomCommands);
 })(window);
+
+
+artyom.initialize({
+  lang:"en-GB",
+  debug:true, // Show what recognizes in the Console
+  listen:true, // Start listening after this
+  speed:0.9, // Talk a little bit slow
+  mode:"normal" // This parameter is not required as it will be normal by default
+});
