@@ -31,4 +31,4 @@ I tested out different iterations of the design concept (on paper and on my lapt
 Browser support and device compatibility is not great. It's only guaranteed to work with Google Chrome on laptop and desktop. Make sure to "Allow" the website to use your microphone, and that no other open tab or window is already using the microphone.
 
 ### Future Steps
-To continue this exploration, I hope to keep refining my artistic intention and execution of the concept, and add more features. Specific things I will consider is how much control users want over the line drawing, adding support for drawing specific shapes and objects, and adding more line textures.
+To continue this exploration, I hope to keep refining my artistic intention and execution of the concept, and add more features. Specific things I could consider is how much control users want over the line drawing, adding support for drawing specific shapes and objects, and adding more line textures.
