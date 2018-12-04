@@ -3,7 +3,7 @@
 paper.install(window);
 
 // globals
-var speed = 20;
+var speed = 10;
 
 var opacities = {
   'faint': 0.2,
