@@ -1,8 +1,6 @@
 # Expanded Ideas For Drawing
-
-![Drawing through voice UI](drawing.png)
-
 As a final project for my Art class, I made an interactive digital experience that exposes a voice UI for someone to create a drawing. View the live version [here](https://abizzaar.github.io/speech-draw/)
+![Drawing through voice UI](drawing.png)
 
 ### Motivation
 People use Voice UI, through technologies like Siri and Alexa, to get things done efficiently. "Siri, set an alarm for 9AM". "Alexa, play The Beatles". I wanted to explore what it meant to use a voice UI for a more abstract task like creating a drawing.
