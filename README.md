@@ -1,5 +1,5 @@
 # Expanded Ideas For Drawing
-As a final project for my Art class, I made an interactive web experience that exposes a voice UI for someone to create a drawing. View the live version at abizzaar.github.io/speech-draw/.
+As a final project for my Art class, I made an interactive web experience that exposes a voice UI for someone to create a drawing. View the live version at https://abizzaar.github.io/speech-draw/.
 
 ![Drawing through voice UI](drawing.png)
 
