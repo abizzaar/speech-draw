@@ -9,7 +9,7 @@ People use Voice UI, through technologies like Siri and Alexa, to get things don
 ### Considerations
 I wanted to find the right balance between giving the user control over the drawing and making it algorithmic. There were two paths I could go down for the voice interactions: 
 * Having voice map to specific commands (eg: "draw a blue line")
-* Analyzing voice to create drawings through sentiment analysis, number of characters, etc. (eg: "Tame Impala is my favorite band because...")
+* Analyzing voice using NLP to create drawings (eg: "Tame Impala is my favorite band because...")
 
 I tested out different iterations of the design concept (on paper and on my laptop) with my friends, and made notes on how interesting, engaging and thought-provoking the concepts were. I developed the final concept based on the feedback.
 
@@ -30,4 +30,4 @@ The commands below trigger changes in the experience. For example, I could say "
 Browser support and device compatibility is not great. It's only guaranteed to work with Google Chrome on laptop and desktop. Make sure to "Allow" the website to use your microphone, and that no other open tab or window is already using the microphone.
 
 ### Future Steps
-To continue this exploration, I hope to test the concept further, refine my artistic intention and execution of the concept, and add more features. Specific things I will consider is how much control users want over the line drawing, adding support for drawing specific shapes and objects, and adding more line textures.
+To continue this exploration, I hope to keep refining my artistic intention and execution of the concept, and add more features. Specific things I will consider is how much control users want over the line drawing, adding support for drawing specific shapes and objects, and adding more line textures.
