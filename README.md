@@ -3,6 +3,17 @@ As a final project for my Art class, I made an interactive web experience that e
 
 ![Drawing through voice UI](drawing.png)
 
+
+### Voice Commands
+The commands below trigger changes in the experience. For example, I could say "Start" to start drawing, "Blue" to change the color, and "Large" to increase line thickness.
+
+| Category      | Commands      |
+| ------------- |---------------| 
+| Drawing       | Start, Stop   |
+| Colors        | Red, Yellow, Blue  |
+| Line Thickness | Small, Medium, Large   | 
+| Line Opacity  | Faint, Light, Dark   | 
+
 ### Motivation
 People use Voice UI, through technologies like Siri and Alexa, to get things done efficiently. "Siri, set an alarm for 9AM". "Alexa, play The Beatles". I wanted to explore what it meant to use a voice UI for a more abstract task like creating a drawing.
 
@@ -15,16 +26,6 @@ I tested out different iterations of the design concept (on paper and on my lapt
 
 ### Technologies used
 [Paper.js](http://paperjs.org/) and [Artyom.js](https://sdkcarlos.github.io/sites/artyom.html)
-
-### Voice Commands
-The commands below trigger changes in the experience. For example, I could say "Start" to start drawing, "Blue" to change the color, and "Large" to increase line thickness.
-
-| Category      | Commands      |
-| ------------- |---------------| 
-| Drawing       | Start, Stop   |
-| Colors        | Red, Yellow, Blue  |
-| Line Thickness | Small, Medium, Large   | 
-| Line Opacity  | Faint, Light, Dark   | 
 
 ### Limitations
 Browser support and device compatibility is not great. It's only guaranteed to work with Google Chrome on laptop and desktop. Make sure to "Allow" the website to use your microphone, and that no other open tab or window is already using the microphone.
