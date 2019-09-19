@@ -1,4 +1,4 @@
-# Expanded Ideas For Drawing
+# Drawing with Voice
 As a final project for my Art class, I made an interactive web experience that exposes a voice UI for someone to create an algorithmic drawing. View the live version at https://abizzaar.github.io/speech-draw/.
 
 ![Drawing through voice UI](example.png)
